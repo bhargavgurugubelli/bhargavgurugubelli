@@ -50,8 +50,11 @@
 
 ## 🌟 Featured Open Source Templates
 
-I design and release production-ready templates for the community. Check out my latest work:
-*   🌸 **[parlour-react-template](https://github.com/bhargavgurugubelli/parlour-react-template)**: A premium, interactive landing page template built with React 19 and Tailwind CSS v4.
+I design and release production-ready website templates for the developer community:
+
+*   🌸 **[parlour-react-template](https://github.com/bhargavgurugubelli/parlour-react-template)**: A premium, highly interactive beauty parlour landing page template built with React and Tailwind CSS.
+*   ☕ **[cafe-react-template](https://github.com/bhargavgurugubelli/cafe_react_template)**: A luxury, single-page restaurant and cafe template featuring rich micro-animations and a dark-espresso design.
+
 
 ---
 
