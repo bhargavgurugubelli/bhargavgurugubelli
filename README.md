@@ -60,6 +60,12 @@ I design and release production-ready templates for the community. Check out my 
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=bhargavgurugubelli&show_icons=true&theme=rose&hide_border=true" alt="Bhargav's GitHub Stats" />
 </p>
+
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=bhargavgurugubelli&theme=rose" alt="Bhargav's GitHub Streak" />
 </p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bhargavgurugubelli&theme=rose" alt="Bhargav's Contribution Graph" />
+</p>
+
