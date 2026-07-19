@@ -57,6 +57,9 @@ I design and release production-ready templates for the community. Check out my 
 
 ## 📊 GitHub Analytics
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bhargavgurugubelli&show_icons=true&theme=rose&hide_border=true&align=center" alt="Bhargav's GitHub Stats" />
-</div>
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=bhargavgurugubelli&show_icons=true&theme=rose&hide_border=true" alt="Bhargav's GitHub Stats" />
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bhargavgurugubelli&theme=rose" alt="Bhargav's GitHub Streak" />
+</p>
